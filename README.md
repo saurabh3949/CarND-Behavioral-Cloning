@@ -16,7 +16,9 @@ The goals of this are the following:
 My project includes the following files:
 * `model.py` containing the script to create and train the model
 * `drive.py` for driving the car in autonomous mode
+* `preprocess.py` for image preprocessing functions, data augmentation and data iterator
 * `model.h5` containing a trained convolution neural network
+* `video.mp4` containing autonomous driving output video
 * `README.md` (this file) summarizing the results
 
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing
